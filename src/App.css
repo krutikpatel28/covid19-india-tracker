@@ -1,0 +1,102 @@
+body{
+  background-color: #121212 !important;
+  color: white !important;
+}
+.boxes{
+  margin-top: 5%;
+}
+.color-box{
+  color: #121212;
+  background-color: aquamarine;
+  padding: 4%;
+  border: solid #121212 5px;
+  border-radius: 10px;
+}
+.color-box1{
+  color: white;
+  background-color: #264b96;
+  padding: 4%;
+  border: solid #121212 5px;
+  border-radius: 10px;
+}
+.color-box2{
+  color: #121212;
+  background-color: #27b376;
+  padding: 4%;
+  border: solid #121212 5px;
+  border-radius: 10px;
+}
+.color-box3{
+  color: #121212;
+  background-color:darksalmon;
+  padding: 4%;
+  border: solid #121212 5px;
+  border-radius: 10px;
+}
+.color-box4{
+  color: #121212;
+  background-color: #f84a58;
+  padding: 4%;
+  border: solid #121212 5px;
+  border-radius: 10px;
+}
+.color-box5{
+  color: #121212;
+  background-color:lightskyblue;
+  padding: 4%;
+  border: solid #121212 5px;
+  border-radius: 10px;
+}
+.color-box6{
+  color: #121212;
+  background-color: lightgoldenrodyellow;
+  padding: 4%;
+  border: solid #121212 5px;
+  border-radius: 10px;
+}
+
+
+@media only screen and (max-width: 550px) {
+  .color-box1{
+    color: white;
+    background-color: #264b96;
+    padding: 10%;
+    border: solid #121212 5px;
+    border-radius: 10px;
+  }
+  .color-box2{
+    color: #121212;
+    background-color: #27b376;
+    padding: 10%;
+    border: solid #121212 5px;
+    border-radius: 10px;
+  }
+  .color-box3{
+    color: #121212;
+    background-color:darksalmon;
+    padding: 10%;
+    border: solid #121212 5px;
+    border-radius: 10px;
+  }
+  .color-box4{
+    color: #121212;
+    background-color: #f84a58;
+    padding: 10%;
+    border: solid #121212 5px;
+    border-radius: 10px;
+  }
+  .color-box5{
+    color: #121212;
+    background-color:lightskyblue;
+    padding: 8%;
+    border: solid #121212 5px;
+    border-radius: 10px;
+  }
+  .color-box6{
+    color: #121212;
+    background-color: lightgoldenrodyellow;
+    padding: 8%;
+    border: solid #121212 5px;
+    border-radius: 10px;
+  }
+}
